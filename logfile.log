@@ -1,0 +1,18 @@
+2021-06-03 22:10:48,731 INFO  [Log] test_1() PASSED 
+2021-06-03 22:10:48,736 INFO  [Log] https://github.com/MaksuCode 
+2021-06-03 22:15:20,029 INFO  [Log] test_1() PASSED 
+2021-06-03 22:15:20,034 INFO  [Log] https://github.com/MaksuCode 
+2021-06-03 22:17:19,282 INFO  [Log] test_1() PASSED 
+2021-06-03 22:17:35,654 INFO  [Log] test_1() PASSED 
+2021-06-03 22:18:18,490 INFO  [Log] test_1() PASSED 
+2021-06-03 22:19:04,348 INFO  [Log] test_1() PASSED 
+2021-06-03 22:19:04,353 INFO  [Log] https://github.com/MaksuCode 
+2021-06-03 22:24:18,907 ERROR [Log] test_1() FAILED with cause : expected: <true> but was: <false> 
+2021-06-03 22:25:10,119 ERROR [Log] test_1() FAILED with cause : expected: <true> but was: <false> 
+2021-06-03 22:25:47,203 ERROR [Log] test_1() FAILED with cause : expected: <true> but was: <false> 
+2021-06-03 22:26:24,570 ERROR [Log] test_1() FAILED with cause : expected: <true> but was: <false> 
+2021-06-03 22:26:57,604 ERROR [Log] test_1() FAILED with cause : expected: <true> but was: <false> 
+2021-06-03 22:27:26,478 ERROR [Log] test_1() FAILED with cause : expected: <true> but was: <false> 
+2021-06-03 22:27:43,790 ERROR [Log] test_1() FAILED with cause : expected: <true> but was: <false> 
+2021-06-03 22:32:33,447 ERROR [Log] test_1() FAILED with cause : expected: <true> but was: <false> 
+2021-06-03 22:33:42,418 ERROR [Log] test_1() FAILED with cause :  
