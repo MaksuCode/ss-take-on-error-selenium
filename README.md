@@ -1,6 +1,14 @@
 ### Taking screenshots when a test method fails
 
- * ### To run the test mvn clean -Dbrowser=chrome test (chrome or firefox)
+ * ### To run the test
+   
+   mvn clean -Dbrowser=chrome test
+   
+   or
+   
+   mvn clean -Dbrowser=firefox test
+
+
 
  * ### Needed to use an interface called DriverInterface to reach the same driver instance from BaseTest and TestResultLogger
     //Here implementing DriverInterface to reach driver instance
